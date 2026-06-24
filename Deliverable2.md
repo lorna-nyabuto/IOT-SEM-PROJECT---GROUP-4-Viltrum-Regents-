@@ -2,9 +2,9 @@
 ## Semester Project: Deliverable 2 — Group 4 (Viltrum Regents)
 
 ### 1. Prototype Submission Links
-* **Architecture (a) Simulation Link:** [Click Here to View Architecture A Wokwi Workspace] https://wokwi.com/projects/467705563826906113
+* **Architecture (a) Simulation Link:**  https://wokwi.com/projects/467705563826906113
 * **Architecture (b) Uploaded pictures------
-* **Architecture (c) Simulation Link:** [Click Here to View Architecture C Wokwi Workspace] https://wokwi.com/projects/467707618590516225
+* **Architecture (c) Simulation Link:**  https://wokwi.com/projects/467707618590516225
 ---
 
 ### 2. Embedded Simulation Codebase
