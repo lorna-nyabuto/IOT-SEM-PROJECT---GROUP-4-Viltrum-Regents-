@@ -89,6 +89,7 @@ void loop() {
   // DHT22 internal logic demands a minimum 2-second sleep step between reads
   delay(2000); 
 }
+```
 
 #### Architecture (c) Code Script (`sketch.ino`)
 ```cpp
@@ -204,6 +205,7 @@ void loop() {
 
   delay(2000); // Synchronized tick rate for both nodes
 }
+```
 
 ### 3. Engineering Implementation Details & Assumptions
 * **MQ-5 Gas Sensor Representation:** Because Wokwi does not provide a native dedicated gas sensor block in its basic menu, a 3-pin sliding potentiometer was engineered into the layout to output variable voltage ranges (0 to 3.3V). The ESP32 accurately processes this as a 12-bit ADC value (0-4095) mapped linearly to air quality metrics.
