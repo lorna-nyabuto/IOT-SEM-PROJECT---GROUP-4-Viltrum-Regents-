@@ -225,3 +225,13 @@ void loop() {
 * **Trevor James & Wesley Mutisya:** Responsible for physical board flashing and hardware circuit wiring. They will configure the physical MQ-5 sensor's VCC line to the stable 5V (VIN) pin, wire the logic signal line to GPIO 34, and connect the physical relay contacts safely to isolate the Master and Slave voltage paths.
 * **Bill Otieno & Jeremy Chege:** Responsible for real-world signal testing and sensor debugging. They will use a multimeter to check voltage lines, verify that the physical DHT22 pulls up cleanly without throwing hardware faults, and track real-time changes using the Arduino IDE Serial Monitor.
 * **Nicole Kirimi & Lorna Nyabuto:** Responsible for physical display calibration and lab report logging. They will adjust the physical hardware potentiometer on the back of the I2C LCD board to calibrate character contrast, verify that live readings refresh correctly on the screen every 2 seconds, and document the final system runtime observations.
+
+* Architecture a physical simulation:**<img width="3024" height="4032" alt="architecture a)_deliverable 2" src="https://github.com/user-attachments/assets/9a484900-c15a-4026-ae14-e26e16dbeb21" />
+
+
+* Architecture b physical simulation:**<img width="720" height="1280" alt="architecture b)_deliverable 2" src="https://github.com/user-attachments/assets/a0f1f063-ed35-4ca1-a019-024e14f28ee8" />
+
+* Architecture b physical simulation_output 1:**<img width="1600" height="900" alt="architecture b)_output_deliverable 2" src="https://github.com/user-attachments/assets/656c3983-7c30-444a-b3ad-106262a39a08" />
+
+* Architecture b physical simulation_output 2:**<img width="1600" height="900" alt="architecture b)_output2_deliverable 2" src="https://github.com/user-attachments/assets/aed80f49-ef3f-4739-a790-d361b311be76" />
+
