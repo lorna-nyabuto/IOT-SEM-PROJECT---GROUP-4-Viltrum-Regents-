@@ -234,4 +234,5 @@ Below are photos of the group members in the lab:
 <img width="525" height="934" alt="image" src="https://github.com/user-attachments/assets/1fe25260-616f-4aa4-bb7a-178293a502c5" />
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b6565796-5aae-42b4-9c16-a1e123ca85aa" />
 <img width="518" height="518" alt="image" src="https://github.com/user-attachments/assets/15d9c4aa-fa3c-4326-b5ef-e4ce2c5c5451" />
+<img width="349" height="349" alt="image" src="https://github.com/user-attachments/assets/4962cf84-a374-46ab-af43-e38b51de1d9c" />
 
