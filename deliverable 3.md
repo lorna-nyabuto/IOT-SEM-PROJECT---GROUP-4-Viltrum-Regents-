@@ -210,6 +210,7 @@ A Grafana dashboard ("Flora Farms Greenhouse Monitor") was built with three time
 3. Gas Sensor (raw ADC)
 
 **Public Grafana dashboard link:** https://ivorybarracuda1165.grafana.net/public-dashboards/a330f28dc55d4fd58207eead73f2ba41
+<img width="975" height="454" alt="image" src="https://github.com/user-attachments/assets/af020b93-20fe-440f-88bd-6346fb1b41e9" />
 
 ---
 
@@ -230,4 +231,5 @@ Below are photos of the group members in the lab:
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/fcc84acc-efb1-4a83-834c-2aca0b868791" />
 <img width="525" height="934" alt="image" src="https://github.com/user-attachments/assets/1fe25260-616f-4aa4-bb7a-178293a502c5" />
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b6565796-5aae-42b4-9c16-a1e123ca85aa" />
+<img width="518" height="518" alt="image" src="https://github.com/user-attachments/assets/15d9c4aa-fa3c-4326-b5ef-e4ce2c5c5451" />
 
