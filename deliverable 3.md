@@ -183,6 +183,8 @@ void loop() {
 
 ### 5. Part 1: Cloud Data Storage (InfluxDB Cloud)
 
+InfluxDB: https://us-east-1-1.aws.cloud2.influxdata.com/orgs/b427ef2dcb00d9aa/data-explorer?fluxScriptEditor
+
 Sensor readings (`temperature`, `humidity`, `gas_raw`) are written to a time-series bucket in InfluxDB Cloud using the HTTP v2 write API, in line protocol format:
 
 ```
